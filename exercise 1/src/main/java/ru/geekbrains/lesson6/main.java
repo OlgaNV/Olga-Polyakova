@@ -18,7 +18,6 @@ public class main {
                 Boy.jump(5);
             }
 
-
         }
     }
 }
