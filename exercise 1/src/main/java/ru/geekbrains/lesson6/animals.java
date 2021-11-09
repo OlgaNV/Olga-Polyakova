@@ -1,5 +1,5 @@
 package ru.geekbrains.lesson6;
-
+                          //Практическое задание 6
 
 public abstract class animals {
 
