@@ -9,7 +9,6 @@ public class cat {
             public cat(int runDistance, int swimDistance, float jumpHeight) {
             super(runDistance, swimDistance, jumpHeight);
         }
-
-
-    }
+   }
+          
 }
