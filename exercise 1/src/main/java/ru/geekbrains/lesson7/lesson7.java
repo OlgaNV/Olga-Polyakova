@@ -1,7 +1,7 @@
 package ru.geekbrains.lesson7;
 
-import java.awt.*;
-import java.util.Scanner;
+ import java.awt.*;
+ import java.util.Scanner;
 
 public class lesson7 {
     public static class SlaveMaster {
